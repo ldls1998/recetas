@@ -1,0 +1,42 @@
+.oListaIndex, .tituloIndex, .tituloReceta, p, .titulo, .lista, .boton {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.tituloIndex, .tituloReceta {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p, .lista, .boton {
+    font-size: 15px;
+}
+
+.imgIndex, .imgReceta {
+    display: block;
+    margin: auto;
+}
+
+.oListaIndex {
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+.tituloIndex {
+    font-size: 50px;
+}
+
+html{
+    background-color: black;
+}
+
+.imgReceta {
+    width: 250px;
+    height: auto;
+}
+
+.boton {
+    color: black;
+}
